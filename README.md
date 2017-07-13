@@ -67,7 +67,7 @@ For this assignment you will need some specific tools
 
 ## Publishing Your Analysis
 
-For this assignment you will need to publish your analysis on [RPubs.com.] If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
+For this assignment you will need to publish your analysis on (RPubs.com.) If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
 
 1. In RStudio, make sure your R Markdown document **(.Rmd)** document is loaded in the editor
 2. Click the **Knit HTML** button in the doc toolbar to preview your document.
